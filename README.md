@@ -13,3 +13,12 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 3
 * [Assignment description](./descriptions/assignment3/Assignment-3.md)
 * [Solution](https://juns19.github.io/module3_solution/)
+
+### Module 4
+* [Assignment description](./descriptions/assignment4/Assignment-4.md)
+* [Solution]
+
+### Module 5
+* [Assignment description](./descriptions/assignment5/Assignment-5.md)
+* [Solution]
+
