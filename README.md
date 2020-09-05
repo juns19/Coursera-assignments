@@ -8,4 +8,4 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 2
 * [Assignment description](descriptions/assignment2/Assignment2.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://github.com/juns19/Coursera-assignments/tree/master/module2_solution)
