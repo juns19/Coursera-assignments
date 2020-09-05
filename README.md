@@ -8,4 +8,4 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 2
 * [Assignment description](descriptions/assignment2/Assignment2.md)
-* [Solution](https://github.com/juns19/Coursera-assignments/tree/master/module2_solution)
+* [Solution](module2_solution/index.html)
