@@ -20,5 +20,5 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 5
 * [Assignment description](./descriptions/assignment5/Assignment-5.md)
-* [Solution]
+* [Solution](https://juns19.github.io/module5_solution/index.html)
 
