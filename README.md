@@ -16,7 +16,7 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
-* [Solution](https://juns19.github.io/module4_solution/)
+* [Solution](https://juns19.github.io/module4_solution/index.html)
 
 ### Module 5
 * [Assignment description](./descriptions/assignment5/Assignment-5.md)
